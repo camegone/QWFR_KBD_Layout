@@ -13,4 +13,7 @@ A QWERTY-like Keyboard layout for gaming, typing, or coding
   1. Collect frequently used keys on the Home row
  
 # Pictures
- 
+ ## normal state
+  ![normal layout picture](./qwfr_layout.png)
+ ## shift state
+  ![shifted layout picture](./qwfr_layout_shift.png)
