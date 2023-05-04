@@ -14,6 +14,6 @@ A QWERTY-like Keyboard layout for gaming, typing, or coding
  
 # Pictures
  ## normal state
-  ![normal layout picture](./qwfr_layout.png)
+  ![normal layout picture](./qwfr_layout_v2.png)
  ## shift state
-  ![shifted layout picture](./qwfr_layout_shift.png)
+  ![shifted layout picture](./qwfr_layout_shift_v2.png)
